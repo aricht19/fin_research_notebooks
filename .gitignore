@@ -1,0 +1,5 @@
+# HTML exports from notebooks
+*.html
+
+# PDF conversion script
+convert_to_pdf.py
